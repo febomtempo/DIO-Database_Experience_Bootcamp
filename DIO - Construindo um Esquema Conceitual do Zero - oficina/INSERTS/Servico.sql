@@ -1,0 +1,12 @@
+insert into Servico (idServico, descricao, valor_mao_de_obra) values (1, 'varius nulla facilisi cras non velit', 1991.86);
+insert into Servico (idServico, descricao, valor_mao_de_obra) values (2, 'posuere cubilia curae nulla dapibus dolor', 1054.29);
+insert into Servico (idServico, descricao, valor_mao_de_obra) values (3, 'enim sit amet', 1148.86);
+insert into Servico (idServico, descricao, valor_mao_de_obra) values (4, 'malesuada in imperdiet et', 1499.21);
+insert into Servico (idServico, descricao, valor_mao_de_obra) values (5, 'maecenas ut massa quis', 1502.19);
+insert into Servico (idServico, descricao, valor_mao_de_obra) values (6, 'enim leo rhoncus', 801.2);
+insert into Servico (idServico, descricao, valor_mao_de_obra) values (7, 'a libero nam dui', 1663.46);
+insert into Servico (idServico, descricao, valor_mao_de_obra) values (8, 'maecenas tincidunt lacus at velit', 654.79);
+insert into Servico (idServico, descricao, valor_mao_de_obra) values (9, 'felis eu sapien cursus', 987.86);
+insert into Servico (idServico, descricao, valor_mao_de_obra) values (10, 'diam id ornare imperdiet', 839.27);
+insert into Servico (idServico, descricao, valor_mao_de_obra) values (11, 'sollicitudin vitae consectetuer', 1940.8);
+insert into Servico (idServico, descricao, valor_mao_de_obra) values (12, 'ut massa volutpat convallis', 1404.24);

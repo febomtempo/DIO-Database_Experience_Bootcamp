@@ -1,0 +1,16 @@
+insert into produto_has_estoque (Produto_idProduto, Estoque_idEstoque, quantidade) values (3, 4, 38);
+insert into produto_has_estoque (Produto_idProduto, Estoque_idEstoque, quantidade) values (16, 3, 2);
+insert into produto_has_estoque (Produto_idProduto, Estoque_idEstoque, quantidade) values (17, 5, 47);
+insert into produto_has_estoque (Produto_idProduto, Estoque_idEstoque, quantidade) values (6, 5, 21);
+insert into produto_has_estoque (Produto_idProduto, Estoque_idEstoque, quantidade) values (7, 1, 3);
+insert into produto_has_estoque (Produto_idProduto, Estoque_idEstoque, quantidade) values (11, 4, 10);
+insert into produto_has_estoque (Produto_idProduto, Estoque_idEstoque, quantidade) values (6, 3, 27);
+insert into produto_has_estoque (Produto_idProduto, Estoque_idEstoque, quantidade) values (3, 2, 62);
+insert into produto_has_estoque (Produto_idProduto, Estoque_idEstoque, quantidade) values (10, 2, 11);
+insert into produto_has_estoque (Produto_idProduto, Estoque_idEstoque, quantidade) values (13, 5, 53);
+insert into produto_has_estoque (Produto_idProduto, Estoque_idEstoque, quantidade) values (10, 5, 53);
+insert into produto_has_estoque (Produto_idProduto, Estoque_idEstoque, quantidade) values (16, 4, 29);
+insert into produto_has_estoque (Produto_idProduto, Estoque_idEstoque, quantidade) values (13, 1, 15);
+insert into produto_has_estoque (Produto_idProduto, Estoque_idEstoque, quantidade) values (17, 3, 63);
+insert into produto_has_estoque (Produto_idProduto, Estoque_idEstoque, quantidade) values (17, 4, 72);
+insert into produto_has_estoque (Produto_idProduto, Estoque_idEstoque, quantidade) values (5, 3, 90);

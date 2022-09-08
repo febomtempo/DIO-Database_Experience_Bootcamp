@@ -1,0 +1,14 @@
+insert into fornecedor_produto (Produto_idProduto, Fornecedor_idFornecedor) values (11, 2);
+insert into fornecedor_produto (Produto_idProduto, Fornecedor_idFornecedor) values (15, 2);
+insert into fornecedor_produto (Produto_idProduto, Fornecedor_idFornecedor) values (4, 4);
+insert into fornecedor_produto (Produto_idProduto, Fornecedor_idFornecedor) values (16, 2);
+insert into fornecedor_produto (Produto_idProduto, Fornecedor_idFornecedor) values (6, 4);
+insert into fornecedor_produto (Produto_idProduto, Fornecedor_idFornecedor) values (13, 1);
+insert into fornecedor_produto (Produto_idProduto, Fornecedor_idFornecedor) values (13, 2);
+insert into fornecedor_produto (Produto_idProduto, Fornecedor_idFornecedor) values (15, 1);
+insert into fornecedor_produto (Produto_idProduto, Fornecedor_idFornecedor) values (15, 4);
+insert into fornecedor_produto (Produto_idProduto, Fornecedor_idFornecedor) values (2, 3);
+insert into fornecedor_produto (Produto_idProduto, Fornecedor_idFornecedor) values (6, 1);
+insert into fornecedor_produto (Produto_idProduto, Fornecedor_idFornecedor) values (1, 3);
+insert into fornecedor_produto (Produto_idProduto, Fornecedor_idFornecedor) values (9, 1);
+insert into fornecedor_produto (Produto_idProduto, Fornecedor_idFornecedor) values (4, 5);
