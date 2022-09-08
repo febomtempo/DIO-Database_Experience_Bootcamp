@@ -22,7 +22,7 @@ Menos garantia da consistência.
 Performance: Depende do tamanho do cluster e latência da rede.
 Transações: Basically available, soft-state, eventually consistent.
 Vantagens: flexibilidade, escalabilidade, alta performance.
-No caso do Mongo, é recomendado o uso para grande volume de dados (Mongo), mas não é recomendado em casos de necessidade de Relacionamentos/JOIN, em que propriedades ACID e transações são importantes e em sistemas de pagamento, pois diversas entidades de pagamento não homologam em sistemas que dados financeiros de clientes não estão em um banco de dados relacional.
+No caso do Mongo, é recomendado o uso para grande volume de dados, mas não é recomendado em casos de necessidade de Relacionamentos/JOIN, em que propriedades ACID e transações são importantes e em sistemas de pagamento, pois diversas entidades de pagamento não homologam em sistemas que dados financeiros de clientes não estão em um banco de dados relacional.
 ```
 
 ### Engenharia de Dados
